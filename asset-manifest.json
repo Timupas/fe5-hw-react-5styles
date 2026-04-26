@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe5-hw-react-5styles/static/css/main.9209ec05.css",
+    "main.js": "/fe5-hw-react-5styles/static/js/main.4f14a28a.js",
+    "index.html": "/fe5-hw-react-5styles/index.html",
+    "main.9209ec05.css.map": "/fe5-hw-react-5styles/static/css/main.9209ec05.css.map",
+    "main.4f14a28a.js.map": "/fe5-hw-react-5styles/static/js/main.4f14a28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9209ec05.css",
+    "static/js/main.4f14a28a.js"
+  ]
+}
